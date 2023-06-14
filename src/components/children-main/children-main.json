@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_children_main_children_mains",
+  "info": {
+    "displayName": "childrenMain",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "componentData": {
+      "type": "component",
+      "repeatable": true,
+      "component": "children.children"
+    },
+    "io": {
+      "type": "string"
+    }
+  }
+}

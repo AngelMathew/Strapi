@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_component_data_components_data",
+  "info": {
+    "displayName": "componentsData"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "subtitle": {
+      "type": "string"
+    }
+  }
+}

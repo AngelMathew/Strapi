@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_component_data_component_data1s",
+  "info": {
+    "displayName": "componentData1",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "children": {
+      "type": "component",
+      "repeatable": true,
+      "component": "children.children"
+    }
+  }
+}

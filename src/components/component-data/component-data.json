@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_component_data_component_data",
+  "info": {
+    "displayName": "componentData"
+  },
+  "options": {},
+  "attributes": {
+    "componentData": {
+      "displayName": "componentData1",
+      "type": "component",
+      "repeatable": false,
+      "component": "component-data.component-data1"
+    }
+  }
+}

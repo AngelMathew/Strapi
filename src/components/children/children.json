@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_children_children",
+  "info": {
+    "displayName": "children",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "componentData": {
+      "type": "relation",
+      "relation": "oneToMany",
+      "target": "api::component-data.component-data"
+    }
+  }
+}
